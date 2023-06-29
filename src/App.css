@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: aliceblue;
+}
+
+main button {
+  background-color: aquamarine;
+  padding: 1rem 2rem;
+  font-size: large;
+}
+
+main button:hover {
+  background-color: aqua;
+  color: #fff;
+}
